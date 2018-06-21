@@ -1,0 +1,9 @@
+{
+  "name": "pretty-path-formatter",
+  "version": "1.0.0",
+  "description": "A simple path formatter",
+  "main": "src/pretty-path-formatter.js",
+  "repository": "https://github.com/gustavofsantos/pretty-path-formatter.git",
+  "author": "Gustavo Santos <gfdsantos@inf.ufpel.edu.br>",
+  "license": "MIT"
+}
